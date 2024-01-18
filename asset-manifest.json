@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Countdown-Challenge-React/static/css/main.19e221c4.css",
+    "main.js": "/Countdown-Challenge-React/static/js/main.b9605a45.js",
+    "index.html": "/Countdown-Challenge-React/index.html",
+    "main.19e221c4.css.map": "/Countdown-Challenge-React/static/css/main.19e221c4.css.map",
+    "main.b9605a45.js.map": "/Countdown-Challenge-React/static/js/main.b9605a45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19e221c4.css",
+    "static/js/main.b9605a45.js"
+  ]
+}
